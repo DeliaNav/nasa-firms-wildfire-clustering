@@ -1,0 +1,12 @@
+@"
+pymongo
+pandas
+numpy
+geopandas
+shapely
+scikit-learn
+streamlit
+folium
+streamlit-folium
+requests
+"@ | Out-File -FilePath requirements.txt -Encoding utf8
